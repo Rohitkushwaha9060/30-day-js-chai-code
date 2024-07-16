@@ -50,7 +50,7 @@
 //     i++;
 //   } while (i <= n);
 
-//   return result;x
+//   return result;
 // }
 
 // console.log(factorial(5));
